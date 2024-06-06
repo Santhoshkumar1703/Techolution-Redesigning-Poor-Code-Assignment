@@ -95,7 +95,7 @@ This project is licensed under the MIT License.
 
 ## Contact ✉️
 
-For any questions or suggestions, please contact us at [your-pangoth20102@iiitnr.edu.in].
+For any questions or suggestions, please contact us at [pangoth20102@iiitnr.edu.in].
 
 ---
 
